@@ -7,7 +7,7 @@ Submitting Date: 02/08/2024
 Step 1 : Clone the repository
 
 ```
-git clone https://github.com/IshwarTrada/Blockchain-Assignment-1.git
+git clone https://github.com/1anish2/Blockchain-Assignment-1.git
 ```
 
 Step 2 : run below command in you terminal.
